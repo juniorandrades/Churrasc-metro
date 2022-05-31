@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+
+.container {
+    font-family: 'Koulen', cursive;
+    max-width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: auto;
+    padding-left: 50px;
+    
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+
+}
